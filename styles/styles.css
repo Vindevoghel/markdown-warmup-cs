@@ -1,0 +1,50 @@
+html, body, p {
+    margin: 0px; padding: 0px;
+}
+/*header*/
+h1, h2 {
+    margin: 0px;
+    padding: 5px;
+}
+
+body {
+    background: antiquewhite;
+}
+
+header {
+    background: darkcyan;
+    color: antiquewhite;
+    font-family: sans-serif;
+}
+
+.quote {
+    text-align: right;
+    margin-right: 10px;
+}
+
+/*foto*/
+
+.afbeelding {
+    float: right;
+    padding-top: 20px;
+}
+
+/*about me*/
+
+.container {
+    color: lightseagreen;
+    font-family: sans-serif;
+}
+
+/*footer*/
+footer {
+    position: fixed;
+    bottom: 0;
+    background: darkcyan;
+    color: antiquewhite;
+    width: 100%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-style: italic;
+    text-align: center;
+}
